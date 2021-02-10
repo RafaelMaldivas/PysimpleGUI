@@ -1,0 +1,15 @@
+DEBUG 31/05/2020 19:40:17 Isso é uma mensagem nível degub !
+INFO 31/05/2020 19:40:17 Isso é uma mensagem nível informativa ! 
+WARNING 31/05/2020 19:40:17 Isso é uma mensagem nível atenção !
+ERROR 31/05/2020 19:40:17 Isso é uma mensagem nível erro !
+CRITICAL 31/05/2020 19:40:17 Isso é uma mensagem nível crítico !
+DEBUG 31/05/2020 19:47:34 Isso é uma mensagem nível degub !
+INFO 31/05/2020 19:47:34 Isso é uma mensagem nível informativa ! 
+WARNING 31/05/2020 19:47:34 Isso é uma mensagem nível atenção !
+ERROR 31/05/2020 19:47:34 Isso é uma mensagem nível erro !
+CRITICAL 31/05/2020 19:47:34 Isso é uma mensagem nível crítico !
+DEBUG 01/06/2020 18:46:12 Isso é uma mensagem nível degub !
+INFO 01/06/2020 18:46:12 Isso é uma mensagem nível informativa ! 
+WARNING 01/06/2020 18:46:12 Isso é uma mensagem nível atenção !
+ERROR 01/06/2020 18:46:12 Isso é uma mensagem nível erro !
+CRITICAL 01/06/2020 18:46:12 Isso é uma mensagem nível crítico !
